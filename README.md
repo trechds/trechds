@@ -23,7 +23,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: trechds@gmail.com">
-      <img width="25" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png">
+      <img width="25" src="https://cdn1.iconfinder.com/data/icons/material-apps/512/icon-email-material-design-512.png">
     </a>
     <a href = "https://www.linkedin.com/in/trechds/">
       <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
