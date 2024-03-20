@@ -1,5 +1,5 @@
-### Hey 👋 
-## What's going on? 
+### Hi there 👋 
+## Welcome to Thiago Rech's profile!
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
