@@ -22,25 +22,21 @@
     
   
   <h1 align="center">Redes Sociais</h1>
+    <a href = "https://api.whatsapp.com/send?phone=5554991424628" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a>
     <a href = "mailto: trechds@gmail.com" target="_blank">
-      <img width="25" src="https://cdn1.iconfinder.com/data/icons/material-apps/512/icon-email-material-design-512.png" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href = "https://www.linkedin.com/in/trechds/" target="_blank">
-      <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href = "https://www.instagram.com/thiago.rech/" target="_blank">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href = "https://www.facebook.com/trechds" target="_blank">
-      <img width="25" src="https://imagepng.org/wp-content/uploads/2017/09/facebook-icone-icon-2.png" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
     </a>
-</div>
-
-<div> 
-  <a href="https://www.linkedin.com/in/trechds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/thiago.rech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/trechds" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:trechds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
