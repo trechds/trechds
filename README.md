@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&layout=compact&langs_count=16&theme=react"/>
+</div>
+<br>
+
 <!--
 **trechds/trechds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
