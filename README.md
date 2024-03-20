@@ -29,7 +29,7 @@
       <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
     </a>
     <a href = "https://www.facebook.com/trechds">
-      <img width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg">
+      <img width="35" src="https://static.vecteezy.com/system/resources/previews/018/930/698/original/facebook-logo-facebook-icon-transparent-free-png.png">
     </a>
     <a href = "https://www.instagram.com/thiago.rech/">
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
