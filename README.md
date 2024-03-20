@@ -17,7 +17,7 @@
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="30" alt="java-icon"  src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png">
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="30" width="30" alt="mysql-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/1024px-Antu_mysql-workbench.svg.png">
+    <img align="center" height="27" width="27" alt="mysql-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/1024px-Antu_mysql-workbench.svg.png">
    </div>
     
   
