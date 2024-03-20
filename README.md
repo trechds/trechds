@@ -13,7 +13,7 @@
     <h1 align="center">Proficient Technologies</h1>
     <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="47" width="49" alt="js-icon"  src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
+    <img align="center" height="47" width="49" alt="js-icon"  src="https://cdn-icons-png.flaticon.com/512/919/919828.png">
     <img align="center" height="40" width="50" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="40" width="40" alt="java-icon"  src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png">
     <img align="center" height="40" width="50" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -29,7 +29,7 @@
       <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
     </a>
     <a href = "https://www.facebook.com/trechds">
-      <img width="35" src="https://static.vecteezy.com/system/resources/previews/018/930/698/original/facebook-logo-facebook-icon-transparent-free-png.png">
+      <img width="25" src="https://imagepng.org/wp-content/uploads/2017/09/facebook-icone-icon-2.png">
     </a>
     <a href = "https://www.instagram.com/thiago.rech/">
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
