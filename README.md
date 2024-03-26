@@ -8,9 +8,19 @@
 </div>
 <br>
 
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+  </div>
+<div align="right">
+    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trechds&theme=react&border_radius=10)](https://git.io/streak-stats)
+</div>
+</div>
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
     <h1 align="center">⚒️ Languages & Tools ⚒️</h1>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
     <img align="center" height="40" width="40" alt="css-icon" src="css.png">
@@ -43,15 +53,11 @@
     </a> -->
 </div>
 
-<br/>
+<br/><br/>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
 ![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=trechds&theme=react&border_radius=10)](https://git.io/streak-stats)
 
 
 
