@@ -57,6 +57,9 @@
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=trechds&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
 
 
 
