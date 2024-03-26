@@ -44,6 +44,7 @@
 </div>
 
 <h2>🐍 My Contributions 🐍</h2>
+
 ![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
 
 
