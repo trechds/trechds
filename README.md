@@ -11,6 +11,7 @@
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="[https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true](https://github-readme-stats-trechds.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
