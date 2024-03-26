@@ -3,7 +3,7 @@
 </h2>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
     <img align="center" height="40" width="40" alt="css-icon" src="css.png">
@@ -17,8 +17,7 @@
     <img align="center" height="40" width="40" alt="figma-icon" src="figma.png">
     <img align="center" height="40" width="40" alt="jira-icon" src="jira.png">
    </div>
-    
-   <h2 align="center">Redes Sociais</h2>
+    <br/>
     <a href = "https://api.whatsapp.com/send?phone=5554991424628" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
@@ -35,7 +34,7 @@
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
     </a> -->
 </div>
-
+<br/>
 <div>
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
