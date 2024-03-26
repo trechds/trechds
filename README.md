@@ -4,14 +4,13 @@
 
 <div>
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img align="right" height="200" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-  
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&layout=compact&langs_count=16&theme=react"/>
+    <img align="left" height="200" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
     <h1 align="center">⚒️ Languages & Tools ⚒️</h1>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
     <img align="center" height="40" width="40" alt="css-icon" src="css.png">
