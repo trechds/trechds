@@ -1,5 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Thiago+Rech!;" />
+    <img align="left" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Thiago+Rech!;" />
+    <img align="right" height="40" width="40" alt="ptbr-icon" src="ptbr.png">
+    <img align="right" height="40" width="40" alt="esmx-icon" src="esmx.png">
+    <img align="right" height="40" width="40" alt="enus-icon" src="enus.png">
 </h1>
 
 <div>
