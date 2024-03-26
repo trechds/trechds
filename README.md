@@ -14,7 +14,7 @@
     <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="40" alt="js-icon"  src="https://cdn-icons-png.flaticon.com/512/919/919828.png">
-    <img align="center" height="40" width="40" alt="java-icon" src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png" style="margin-left: 10px;>
+    <img align="center" height="40" width="40" alt="java-icon" src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png" style="margin-left:"10";>
     <img align="center" height="42" width="52" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="40" width="50" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="35" width="35" alt="mysql-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/1024px-Antu_mysql-workbench.svg.png">
