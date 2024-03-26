@@ -1,5 +1,4 @@
-## Hey, my name is Thiago Rech👋 
-### I study Software Development at Brigham Young University-Idaho
+## 👋 What's up? My name is Thiago Rech, I study Software Development at Brigham Young University-Idaho
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -39,6 +38,12 @@
 </div>
   
 ![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trechds/trechds/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trechds/trechds/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/trechds/trechds/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **trechds/trechds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
