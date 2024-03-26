@@ -1,6 +1,10 @@
 ## 👋 What's up? My name is Thiago Rech! 
 ### 👨🏻‍💻 I am a Software & Web Development student at BYU-Idaho.
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Thiago+Rech!;" />
+</h1>
+
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&layout=compact&langs_count=16&theme=react"/>
