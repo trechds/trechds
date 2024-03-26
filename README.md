@@ -11,7 +11,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="260" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-    <h1 align="center">Proficient Technologies</h1>
+    <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
     <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="40" alt="js-icon"  src="https://cdn-icons-png.flaticon.com/512/919/919828.png">
@@ -42,14 +42,14 @@
 ![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-trechds.vercel.app/?user=trechds&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-trechds.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-trechds.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+</div> -->
 
 <!--
 trechds/trechds is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
