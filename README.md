@@ -2,10 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Thiago+Rech!;" />
 </h1>
 
-- 💼 I’m currently working at Bloom
-- 👨🏻‍🎓 Studying at Brigham Young University-Idaho
-- 🌱 Current learning C# and JavaScript
-- 🔭 Looking foward to work as a Full Stack Developer
+<div style="display: inline_block"><br>
+    - 💼 I’m currently working at Bloom
+    - 👨🏻‍🎓 Studying at Brigham Young University-Idaho
+    - 🌱 Current learning C# and JavaScript
+    - 🔭 Looking foward to work as a Full Stack Developer
+    <img align="left" height="260" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+</div>
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
