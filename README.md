@@ -3,8 +3,8 @@
 </h1>
 
 <div>
-  <img  height="205em" src="https://github-readme-stats.vercel.app/api?username=trechds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&layout=compact&langs_count=16&theme=react"/>
+  <img  height="205em" src="https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img align="right" height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 <br>
 
