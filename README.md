@@ -1,25 +1,10 @@
-<h1 align="center">
+<h2 align="center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Thiago+Rech!;" />
-</h1>
-
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
-</div>
-<br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="200" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-  </div>
-<div align="right">
-    
-[![GitHub Streak](https://streak-stats.demolab.com/?user=trechds&theme=react&border_radius=10)](https://git.io/streak-stats)
-</div>
-</div>
+</h2>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">⚒️ Languages & Tools ⚒️</h1>
+    <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
     <img align="center" height="40" width="40" alt="css-icon" src="css.png">
     <img align="center" height="40" width="40" alt="js-icon"  src="js.png">
@@ -33,7 +18,7 @@
     <img align="center" height="40" width="40" alt="jira-icon" src="jira.png">
    </div>
     
-   <h1 align="center">Redes Sociais</h1>
+   <h2 align="center">Redes Sociais</h2>
     <a href = "https://api.whatsapp.com/send?phone=5554991424628" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
@@ -49,6 +34,21 @@
 <!--<a href = "https://www.facebook.com/trechds" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
     </a> -->
+</div>
+
+<div>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+</div>
+<br>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="200" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+  </div>
+<div align="right">
+    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trechds&theme=react&border_radius=10)](https://git.io/streak-stats)
+</div>
 </div>
 
 <br/><br/>
