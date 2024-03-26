@@ -10,9 +10,6 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="40" width="40" alt="ptbr-icon" src="ptbr.png">
-    <img align="left" height="40" width="40" alt="esmx-icon" src="esmx.png">
-    <img align="left" height="40" width="40" alt="enus-icon" src="enus.png">
     <img align="left" height="250" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
     <h1 align="center">⚒️ Languages & Tools ⚒️</h1>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
@@ -28,19 +25,20 @@
     <img align="center" height="40" width="40" alt="jira-icon" src="jira.png">
    </div>
     
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "https://api.whatsapp.com/send?phone=5554991424628" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-    </a>
-    <a href = "mailto: trechds@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href = "https://www.linkedin.com/in/trechds/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href = "https://www.instagram.com/thiago.rech/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
+  <div>
+        <a href = "https://api.whatsapp.com/send?phone=5554991424628" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+        </a>
+        <a href = "mailto: trechds@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        </a>
+        <a href = "https://www.linkedin.com/in/trechds/" target="_blank">
+          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        </a>
+        <a href = "https://www.instagram.com/thiago.rech/" target="_blank">
+          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+        </a>
+    </div>
 <!--<a href = "https://www.facebook.com/trechds" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
     </a> -->
