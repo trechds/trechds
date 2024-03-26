@@ -12,13 +12,18 @@
   <div style="display: inline_block"><br>
     <img align="left" height="260" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
     <h1 align="center">⚒️ Languages & Tools ⚒️</h1>
-    <img align="center" height="40" width="50" alt="html-icon" src="html.png">
-    <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="40" alt="js-icon"  src="https://cdn-icons-png.flaticon.com/512/919/919828.png">
-    <img align="center" height="42" width="52" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="40" width="40" alt="java-icon" src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png">
-    <img align="center" height="40" width="50" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="35" width="35" alt="mysql-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/1024px-Antu_mysql-workbench.svg.png">
+    <img align="center" height="40" width="40" alt="html-icon" src="html.png">
+    <img align="center" height="40" width="40" alt="css-icon" src="css.png">
+    <img align="center" height="40" width="40" alt="js-icon"  src="js.png">
+    <img align="center" height="40" width="40" alt="java-icon" src="java.png">
+    <img align="center" height="40" width="40" alt="python-icon" src="py.png">
+    <img align="center" height="40" width="40" alt="csharp-icon" src="csharp.png">
+    <img align="center" height="40" width="40" alt="vscode-icon" src="vscode.png">
+    <img align="center" height="40" width="40" alt="mysql-icon" src="mysql.png">
+    <img align="center" height="40" width="40" alt="github-icon" src="github.png">
+    <img align="center" height="40" width="40" alt="git-icon" src="git.png">
+    <img align="center" height="40" width="40" alt="figma-icon" src="figma.png">
+    <img align="center" height="40" width="40" alt="jira-icon" src="jira.png">
    </div>
     
   <h1 align="center">Redes Sociais</h1>
