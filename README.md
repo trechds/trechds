@@ -18,7 +18,6 @@
     <img align="center" height="40" width="40" alt="java-icon" src="java.png">
     <img align="center" height="40" width="40" alt="python-icon" src="py.png">
     <img align="center" height="40" width="40" alt="csharp-icon" src="csharp.png">
-    <img align="center" height="40" width="40" alt="vscode-icon" src="vscode.png">
     <img align="center" height="40" width="40" alt="mysql-icon" src="mysql.png">
     <img align="center" height="40" width="40" alt="github-icon" src="github.png">
     <img align="center" height="40" width="40" alt="git-icon" src="git.png">
