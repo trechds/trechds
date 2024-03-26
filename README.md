@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Thiago+Rech!;" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+My+name+is+Thiago+Rech!;" />
 </h2>
 
 <div  align="center"> 
@@ -35,6 +35,12 @@
     </a> -->
 </div>
 <br/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+
+![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
+<br/><br/>
+
 <div>
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
@@ -49,12 +55,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=trechds&theme=react&border_radius=10)](https://git.io/streak-stats)
 </div>
 </div>
-
-<br/><br/>
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-
-![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
 
 
 
