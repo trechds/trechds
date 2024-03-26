@@ -43,9 +43,7 @@
     </a> -->
 </div>
 
-<div>
-    ![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
