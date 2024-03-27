@@ -17,7 +17,7 @@
     <img align="center" height="40" width="40" alt="figma-icon" src="figma.png">
     <img align="center" height="40" width="40" alt="jira-icon" src="jira.png">
    </div>
-    <h2></h2>
+    <h3></h3>
     <a href = "https://api.whatsapp.com/send?phone=5554991424628" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
@@ -47,7 +47,6 @@
 ![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
 <br/><br/>
 
-<br/>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="200" alt="coding-time" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
