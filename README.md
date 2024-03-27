@@ -3,7 +3,7 @@
 </h2>
 <div  align="center"> 
   <div style="display: inline_block">
-    <h1 align="center">⚒️ Languages & Tools ⚒️</h1>
+    <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
     <img align="center" height="40" width="40" alt="css-icon" src="css.png">
     <img align="center" height="40" width="40" alt="js-icon"  src="js.png">
