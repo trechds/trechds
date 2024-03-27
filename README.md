@@ -6,6 +6,7 @@
   <div style="display: inline_block">
     <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
+      <img align="center" height="40" width="40" alt="html-icon" src="html.png" style="margin: 2px; transition: transform 0.2s ease, opacity 0.2s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.opacity='0.8';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
     <img align="center" height="40" width="40" alt="css-icon" src="css.png">
     <img align="center" height="40" width="40" alt="js-icon"  src="js.png">
     <img align="center" height="40" width="40" alt="java-icon" src="java.png">
