@@ -53,7 +53,8 @@
   </div>
 <div align="right">
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=trechds&theme=react&border_radius=10)](https://git.io/streak-stats)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=trechds&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3)
 </div>
 </div>
 
@@ -62,7 +63,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trechds&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trechds&hide=Html&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trechds&theme=react) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trechds&theme=react) | ![](https://github-readme-streak-stats.herokuapp.com/?user=trechds&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trechds&theme=react) | [![GitHub Streak](https://streak-stats.demolab.com/?user=trechds&theme=react&border_radius=10)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 
