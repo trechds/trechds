@@ -39,7 +39,7 @@
 | ![](https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trechds&hide=Html&theme=react&border_radius=10) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats) |
 | :-: | :-: | :-: |
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h3 align="center">🐍 My Contributions 🐍</h3>
 
 ![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake-dark.svg)
 
