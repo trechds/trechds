@@ -42,7 +42,7 @@
 <br/>
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
-![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/trechds/trechds/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br/><br/>
 
