@@ -58,7 +58,7 @@
 
 <br/>
 
-| ![](https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trechds&hide=Html&theme=react&border_radius=10) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trechds&theme=react&border_radius=10) |
+| ![](https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trechds&hide=Html&theme=react&border_radius=10) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trechds&theme=react&border_radius=10) | [![GitHub Streak](https://streak-stats.demolab.com/?user=trechds&theme=react&border_radius=10)](https://git.io/streak-stats) |
