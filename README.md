@@ -1,7 +1,6 @@
 <h2 align="center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+My+name+is+Thiago+Rech!;" />
 </h2>
-
 <div  align="center"> 
   <div style="display: inline_block">
     <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
@@ -34,7 +33,7 @@
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
     </a> -->
 </div>
-<br/>
+<h2></h2>
 
 <div>
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
