@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=trechds&color=#31E3E8;"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=trechds&color=turquoise;"><br>
 <h2 align="center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+My+name+is+Thiago+Rech!;" />
 </h2>
