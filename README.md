@@ -6,7 +6,7 @@
   <div style="display: inline_block">
     <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
-    <img align="center" height="40" width="40" alt="css-icon" src="css.png" style="margin: 2;">
+    <img align="center" height="40" width="40" alt="css-icon" src="css.png" margin="2">
     <img align="center" height="40" width="40" alt="js-icon"  src="js.png">
     <img align="center" height="40" width="40" alt="java-icon" src="java.png">
     <img align="center" height="40" width="40" alt="python-icon" src="py.png">
