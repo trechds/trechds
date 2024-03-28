@@ -36,8 +36,8 @@
 </div>
 <br/>
 
-| ![](https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trechds&hide=Html&theme=react&border_radius=10) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats) |
-| :-: | :-: | :-: |
+| ![](https://github-readme-stats.vercel.app/api?username=trechds&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trechds&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats) |
+| :-: | :-: |
 
 <h3 align="center">🐍 My Contributions 🐍</h3>
 
@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trechds&theme=react)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trechds&hide=Html&theme=react&border_radius=10)
 -->
 
 
