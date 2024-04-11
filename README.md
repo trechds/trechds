@@ -4,7 +4,7 @@
 </h2>
 <div  align="center"> 
   <div style="display: inline_block">
-    <h2 align="center">⚒️ Hard Skills ⚒️</h2>
+    <h2 align="center">⚒️ Tech Skills ⚒️</h2>
     <img align="center" height="40" width="40" alt="html-icon" src="html.png">
     <img align="center" height="40" width="40" alt="css-icon" src="css.png">
     <img align="center" height="40" width="40" alt="js-icon"  src="js.png">
